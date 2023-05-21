@@ -3,3 +3,4 @@
 ### La bibliografía fue sacada del libro "Graphs and Hypergraphs"  de Berge C.
 
 ### Dicho algoritmo lo aplique para correrlo en python, el archivo "Algoritmo.py" es dicha implementación
+### En ese script tiene todas las funciones involucradas así como ejemplos aplicados, se definió para saber el número en un ejemplo de tableros pero sin éxito, esto es debido a que el algoritmo no es muy eficiente sumado a que el ejemplo es un grafo grande
