@@ -1,4 +1,4 @@
-# Numero de absorcion y transversal
+# Número de absorción y transversal
 Este proyecto forma parte de un final para la materia "Teoría de Grafos", el objetivo es explicar los **números de absorción y transversal**, así como dar **cotas** y explicar su funcionalidad con **ejemplos**.
 
 La parte teórica está expuesta en [Número de absorción y número transversal](https://github.com/LautaroOchotorena/Numero-de-absorcion-y-transversal/blob/main/N%C3%BAmero%20de%20absorci%C3%B3n%20y%20n%C3%BAmero%20transversal.pdf), en ella hay los teoremas y demostraciones del tema.
